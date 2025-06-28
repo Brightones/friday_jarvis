@@ -11,4 +11,4 @@ mem0ai
 duckduckgo-search
 langchain_community
 requests
-python-dotenv
+python-dotenvcd 
